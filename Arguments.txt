@@ -1,0 +1,6 @@
+--ip : custom ip
+--port : custom port
+--name : custom name
+--v : verbose flag
+--psend : peer send interval in seconds
+--alive: keepalive duration in seconds
